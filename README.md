@@ -10,14 +10,15 @@ The goal of this exploratory data analysis (EDA) was to identify key factors tha
 
 This project was completed using the following tools:
 
-| Tool        | Description                         |
-|-------------|-------------------------------------|
-| Python      | Programming language for analysis   |
-| Pandas      | Data manipulation and preprocessing |
-| NumPy       | Numerical computing                 |
-| Matplotlib  | Data visualization                  |
-| Seaborn     | Statistical data visualization      |
-| JupyterLab  | Interactive coding environment      |
+| Tool              | Description                         |
+|-------------------|-------------------------------------|
+| Python            | Programming language for analysis   |
+| Pandas            | Data manipulation and preprocessing |
+| NumPy             | Numerical computing                 |
+| Matplotlib        | Data visualization                  |
+| Seaborn           | Statistical data visualization      |
+| Jupyter Notebook  | Interactive coding environment      |
+| VS Code           | Interactive coding environment      |
 
 ## 🔍 Key Insights
 
