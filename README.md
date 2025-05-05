@@ -8,11 +8,16 @@ The goal of this exploratory data analysis (EDA) was to identify key factors tha
 
 ## 🛠️ Tools & Libraries Used
 
-- **Python**
-- **NumPy** – numerical operations
-- **Pandas** – data wrangling and manipulation
-- **Matplotlib** – data visualization
-- **Seaborn** – advanced statistical plots
+This project was completed using the following tools:
+
+| Tool        | Description                         |
+|-------------|-------------------------------------|
+| Python      | Programming language for analysis   |
+| Pandas      | Data manipulation and preprocessing |
+| NumPy       | Numerical computing                 |
+| Matplotlib  | Data visualization                  |
+| Seaborn     | Statistical data visualization      |
+| JupyterLab  | Interactive coding environment      |
 
 ## 🔍 Key Insights
 
@@ -21,4 +26,10 @@ The goal of this exploratory data analysis (EDA) was to identify key factors tha
 - Payment methods like **electronic checks** and services like **fiber optic internet** correlate with higher churn rates.
 - Customers with **low tenure** and **high monthly charges** are more likely to leave.
 
-## 📁 Repository Structure
+## 🧠 What I Learned
+
+As this was my **first Python project**, I learned:
+- How to structure a data analysis notebook
+- Cleaning and transforming real-world datasets
+- Extracting insights using grouped statistics and visualizations
+- Communicating results clearly through storytelling and graphs
